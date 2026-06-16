@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MedicalManagementSystem</string>
+    <string-array name="roles">
+        <item>Patient</item>
+        <item>Doctor</item>
+    </string-array>
+</resources>

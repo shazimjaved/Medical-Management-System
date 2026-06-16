@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "867544617159",
+    "firebase_url": "https://medical-app-4530e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "medical-app-4530e",
+    "storage_bucket": "medical-app-4530e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867544617159:android:d083a145645814d4f1aee2",
+        "android_client_info": {
+          "package_name": "com.example.medicalmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfZQqUvP6EgKbIdL2WLHasB43k0JDbyN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
